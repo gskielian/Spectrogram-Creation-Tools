@@ -2,6 +2,8 @@
 
 import os
 import wave
+import matplotlib
+matplotlib.use('Agg')
 import pylab
 import sys
 
